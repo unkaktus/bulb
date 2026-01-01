@@ -15,7 +15,7 @@ import (
 	"io/ioutil"
 	"strings"
 
-	"github.com/nogoegst/wslpath"
+	"github.com/unkaktus/wslpath"
 )
 
 // Authenticate authenticates with the Tor instance using the "best" possible

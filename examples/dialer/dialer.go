@@ -12,7 +12,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/nogoegst/bulb"
+	"github.com/unkaktus/bulb"
 )
 
 func main() {

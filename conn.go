@@ -17,7 +17,7 @@ import (
 	"net/textproto"
 	"sync"
 
-	bulbUtils "github.com/nogoegst/bulb/utils"
+	bulbUtils "github.com/unkaktus/bulb/utils"
 )
 
 const (

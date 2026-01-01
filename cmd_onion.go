@@ -14,7 +14,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/nogoegst/bulb/utils/pkcs1"
+	"github.com/unkaktus/bulb/utils/pkcs1"
 )
 
 // OnionInfo is the result of the AddOnion command.

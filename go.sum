@@ -1,4 +1,6 @@
-github.com/nogoegst/wslpath v0.1.0 h1:hnUj8S2RSAJoljmOPgzseP3/XEDGy6nExsMI00mqUBs=
-github.com/nogoegst/wslpath v0.1.0/go.mod h1:KbpjFJTcFGLrBXgvCodBNB8fE1/ZSNP568f0KGntcSE=
-golang.org/x/net v0.0.0-20181107093936-a544f70c90f1 h1:SwqD3GJ9PsSBBVv1HlDeSwjjPSeZjUZQcAgGnwsWpyc=
-golang.org/x/net v0.0.0-20181107093936-a544f70c90f1/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=
+github.com/matryer/is v1.4.1 h1:55ehd8zaGABKLXQUe2awZ99BD/PTc2ls+KV/dXphgEQ=
+github.com/matryer/is v1.4.1/go.mod h1:8I/i5uYgLzgsgEloJE1U6xx5HkBQpAZvepWuujKwMRU=
+github.com/unkaktus/wslpath v1.0.0 h1:OowTbVF4bFsos0iZdyvnGYX229sz/U5nvW+Z7VduxJY=
+github.com/unkaktus/wslpath v1.0.0/go.mod h1:208bpbScj9C1E1XGKWPcpaWYpmZQrh8jQxmErFbiu9U=
+golang.org/x/net v0.48.0 h1:zyQRTTrjc33Lhh0fBgT/H3oZq9WuvRR5gPC70xpDiQU=
+golang.org/x/net v0.48.0/go.mod h1:+ndRgGjkh8FGtu1w1FGbEC31if4VrNVMuKTgcAAnQRY=

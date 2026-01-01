@@ -11,7 +11,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/nogoegst/bulb/utils"
+	"github.com/unkaktus/bulb/utils"
 )
 
 // ProtocolInfo is the result of the ProtocolInfo command.

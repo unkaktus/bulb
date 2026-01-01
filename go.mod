@@ -1,6 +1,8 @@
-module github.com/nogoegst/bulb
+module github.com/unkaktus/bulb
+
+go 1.25.4
 
 require (
-	github.com/nogoegst/wslpath v0.1.0
-	golang.org/x/net v0.0.0-20181107093936-a544f70c90f1
+	github.com/unkaktus/wslpath v1.0.0
+	golang.org/x/net v0.48.0
 )
